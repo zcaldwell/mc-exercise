@@ -1,4 +1,3 @@
-
 This is what Bob & Carol did on Bob’s computer when working on the first feature
 
 
@@ -8,5 +7,10 @@ This is what Bob & Carol did on Bob’s computer when working on the first featu
 -to cause
 a merge conflict
 
+Pumpkins rule
+
 
 - karyssa is the best
+
+
+
